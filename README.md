@@ -1,3 +1,41 @@
 # React Shopping Cart 
 
-# Step 1: Create React App
+1. Create React App
+
+2. Project Development Workflow
+    1. Create Google Spreadsheet
+    2. Add columns Feature, Description, State, and Duration
+    3. Enter Product Component, show list f product, and open, 2
+    4. Add Time ? Hours, Rate 30 USD/Hours, cost ? USD
+    5. Add All Features
+    6. Create Github account
+    7. Create new repository
+    8. Add it as remote repository in VS Code
+    9. Commit changes on github
+    10. Push changes on github
+    11. Start => create new feature Feature 1 in google spreadsheet
+    12. Create a new branch feature-1 for testing the workflow
+    13. Add "// branch feature-1 in App.js line 1
+    14. commit with message "feature 1"
+    15. Click publish changes
+    16. Open respository page on github
+    17.  Create pull request 
+    18. Merge pull request .
+
+3. Cart Component
+    1. Set active task management spreadsheet
+    2. Create branch cart-component
+    3. Product.js
+    4. Handle "Add To Cart" to this.props.addToCart(product)
+    5. App.js
+    6. Add cartItems to state as []
+    7. Create addToCart(product)
+    8. Slice, Check product existance, add to cartItems
+    9. Cart.js
+    10. Define cartItems, order from this.props
+    11. Check cartItems.length and show message
+    12. List cartItems {cartItems.length > 0 &&}
+    13. index.css
+    14. Style cart, cart-header, cart-items (img, li)
+    15. Use localStorage on App constructor to load cart items (JSON.parse)
+    16. Use LocalStorage on addToCart to save cart items (JSON.stringify)
