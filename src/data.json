@@ -3,7 +3,7 @@
       { 
         "_id": "dress1", 
         "image": "/images/dress1.jpg",
-        "tittle": "Midi sundress with shirring detail", 
+        "title": "Midi sundress with shirring detail", 
         "description": "This is for all the latset trends, no matter",
         "availableSizes":["X","L"],
         "price": 29.9
@@ -11,7 +11,7 @@
       { 
         "_id": "dress2", 
         "image": "/images/dress2.jpg",
-        "tittle": "Midi sundress with ruched front", 
+        "title": "Midi sundress with ruched front", 
         "description": "This is for all the latset trends, no matter",
         "availableSizes":["XL","S"],
         "price": 18.9
@@ -19,7 +19,7 @@
       { 
         "_id": "dress3", 
         "image": "/images/dress3.jpg",
-        "tittle": "Midi dress in pink ditsy floral", 
+        "title": "Midi dress in pink ditsy floral", 
         "description": "This is for all the latset trends, no matter",
         "availableSizes":["X","L"],
         "price": 19.0
@@ -27,7 +27,7 @@
       { 
         "_id": "dress4",  
         "image": "/images/dress4.jpg",
-        "tittle": "cami maxi dress in polka dot",
+        "title": "cami maxi dress in polka dot",
         "description": "This is for all the latset trends, no matter",
         "availableSizes":["L","XL"],
         "price": 25.9
@@ -35,7 +35,7 @@
       { 
         "_id": "dress5",  
         "image": "/images/dress5.jpg",
-        "tittle": "frill mini dress in yellow polka dot",
+        "title": "frill mini dress in yellow polka dot",
         "description": "This is for all the latset trends, no matter",
         "availableSizes":["XS","XXL"],
         "price": 10.9
@@ -43,7 +43,7 @@
       { 
         "_id": "dress6",  
         "image": "/images/dress6.jpg",
-        "tittle": "Midi tea dress in blue and red spot",
+        "title": "Midi tea dress in blue and red spot",
         "description": "This is for all the latset trends,no matter",
         "availableSizes":["S","XXL"],
         "price": 49.9
