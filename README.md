@@ -39,3 +39,22 @@
     14. Style cart, cart-header, cart-items (img, li)
     15. Use localStorage on App constructor to load cart items (JSON.parse)
     16. Use LocalStorage on addToCart to save cart items (JSON.stringify)
+
+4.  Checkout Form
+    1. Set active task spreadsheet
+    2. Create branch checkout-form 
+    3. Cart.js  
+    4. Make cart items persistent
+    5. Use LocalStorage on App constructor to load cart  items (JSON.parse)
+    6. Use localstorage on addCart to save cart item (JSON.stringify)
+    7. Handle click n process
+    8. Update showCheckOut state to true on click 
+    9. Conditional rendering Checkout form 
+    10. Get Email, Name, and Address required input 
+    11. Define handleInput function 
+    12. Add checkout button 
+    13. Handle onSubmit form Event by this.createOrder
+    14. Create order object and pass to parent to handle it 
+    15. Publish changes
+    16. Pull request, merge, change to master
+    17. Task management spreadsheet set it done
