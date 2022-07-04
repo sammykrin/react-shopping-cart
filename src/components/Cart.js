@@ -14,6 +14,7 @@ export default class cart extends Component {
     handleInput = (e) =>{
         this.setState({[e.target.name]: e.target.value});
     };
+
     createOrder = (e) =>{
         e.preventDefault();
         const order = {
@@ -24,6 +25,7 @@ export default class cart extends Component {
         };
         this.props.createOrder(order); 
     };
+    
     render() {
         const {cartItems} = this.props;
         return (
