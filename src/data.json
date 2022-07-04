@@ -4,31 +4,31 @@
         "_id": "dress1", 
         "image": "/images/dress1.jpg",
         "title": "Midi sundress with shirring detail", 
-        "description": "This is for all the latset trends, no matter",
-        "availableSizes":["X","L"],
+        "description": "This is for all the latset trends,no matter who you are, where you are from and what you are up to. Exclusive ao ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes":["X","L","S"],
         "price": 29.9
       },
       { 
         "_id": "dress2", 
         "image": "/images/dress2.jpg",
         "title": "Midi sundress with ruched front", 
-        "description": "This is for all the latset trends, no matter",
-        "availableSizes":["XL","S"],
+        "description": "This is for all the latset trends,no matter who you are, where you are from and what you are up to. Exclusive ao ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes":["XL","S","L"],
         "price": 18.9
       },
       { 
         "_id": "dress3", 
         "image": "/images/dress3.jpg",
         "title": "Midi dress in pink ditsy floral", 
-        "description": "This is for all the latset trends, no matter",
-        "availableSizes":["X","L"],
+        "description": "This is for all the latset trends,no matter who you are, where you are from and what you are up to. Exclusive ao ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes":["X","L","XS"],
         "price": 19.0
       },
       { 
         "_id": "dress4",  
         "image": "/images/dress4.jpg",
         "title": "cami maxi dress in polka dot",
-        "description": "This is for all the latset trends, no matter",
+        "description": "This is for all the latset trends,no matter who you are, where you are from and what you are up to. Exclusive ao ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes":["L","XL"],
         "price": 25.9
       },
@@ -36,7 +36,7 @@
         "_id": "dress5",  
         "image": "/images/dress5.jpg",
         "title": "frill mini dress in yellow polka dot",
-        "description": "This is for all the latset trends, no matter",
+        "description": "This is for all the latset trends,no matter who you are, where you are from and what you are up to. Exclusive ao ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS curve, Tall, Petite and Maternity. Created by us, styled by you.",
         "availableSizes":["XS","XXL"],
         "price": 10.9
       },
@@ -44,8 +44,8 @@
         "_id": "dress6",  
         "image": "/images/dress6.jpg",
         "title": "Midi tea dress in blue and red spot",
-        "description": "This is for all the latset trends,no matter",
-        "availableSizes":["S","XXL"],
+        "description": "This is for all the latset trends,no matter who you are, where you are from and what you are up to. Exclusive ao ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes":["S","XXL","X"],
         "price": 49.9
       }
     ]

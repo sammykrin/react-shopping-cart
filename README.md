@@ -58,3 +58,26 @@
     15. Publish changes
     16. Pull request, merge, change to master
     17. Task management spreadsheet set it done
+
+5.  Add Modal and Animation
+    1. Set active task management spreedsheet
+    2. Cretate branch animation-modal 
+    3. Show animation
+    4. Install react-reveal 
+    5. Create fade effect from bottom for products
+    6. Create fade left for add to cart 
+    7. Create fade right for show checkout form 
+    8. Open modal by click on prodcut image
+    9. Install react-modal
+    10. Products.js 
+    11. Import modal
+    12. Set state for prodcut to null 
+    13. Define openModal and closeModal 
+    14. Show Modal if product exist
+    15. Create Modal
+    16. Create Modal
+    17. Index.css
+    18. Style product details 
+    19. Commit and publish changes
+    20. Pull request, merge, change to master
+    21. Task management spreedsheet set it to done.
