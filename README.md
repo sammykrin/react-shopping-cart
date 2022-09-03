@@ -95,3 +95,42 @@
     10. Postman send post request
     11. route.get("/api/products")
     12. route.delete("/api/products/:id")
+
+7.  Add Redux
+    1. What is redux?
+    2. Uodate task on spreedsheet
+    3. create branch add-redux-products 
+    4. npm install redux react-redux redux-thunk
+    5. create types
+    6. types.js
+    7. define FETCH_PRODUCTS
+    8. actions/productActions.js
+    9. declare fetchProducts
+    10. create reducers
+    11. reducers/productReducers.js
+    12. define case FETCH_PRODUCTS
+    13. create store
+    14. store.js
+    15. import redux
+    16. set initial state
+    17. define initialState
+    18. create store
+    19. import productReducers
+    20. combine reducers
+    21. use store
+    22. App.js
+    23. import store
+    24. wrap all in provider
+    25. connect producers
+    26. components/producer.js
+    27. connect to store
+    28. import fetchProducts
+    29. set state products to null
+    30. fetch products from did Mount
+    31. package.json
+    32. set proxy to http://127.0.0.1:5000
+    33. npm run server
+    34. check products lsit 
+    35. commit and publish 
+    36. send pull request and merge
+    37. update spreedsheet
